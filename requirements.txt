@@ -1,0 +1,4 @@
+Python 3.x
+Gymnasium
+PyTorch
+Imageio
