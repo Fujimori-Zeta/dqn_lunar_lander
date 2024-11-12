@@ -5,8 +5,8 @@ This project implements Deep Q-Learning (DQN) to solve the Lunar Lander environm
 ## How to Run
 
 1. Clone the repository:
-      git clone https://github.com/Fujimori-eta/deep-q-lunar-lander.git
-   cd deep-q-lunar-lander
+      git clone https://github.com/Fujimori-Zeta/dqn_lunar_lander.git
+   cd dqn_lunar_lander
 
 2. Install the dependencies
 
